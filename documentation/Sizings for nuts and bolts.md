@@ -10,7 +10,7 @@ The purpose of this file is to keep track of key nuts and or bolts that may need
 | --- | --- | --- | --- | --- |
 | Foot Hose (ends) | 5/8-18" | 4 | Berger's Hardware | tbd |
 | Bracket to Foot Motors | 1/4-20 1/2" | 4 | Berger's Hardware | tbd |
-| Bracket to Center Foot | 1/4-20 1/2" | Berger's Hardware | Vinyl locking nuts preferred |
+| Bracket to Center Foot | 1/4-20 1/2" | 2 | Berger's Hardware | Vinyl locking nuts preferred |
 | Dome Bump | 1/4-28" | ?? | Berger's Hardware | tbd |
 
 **n.b.** - Sizing is formatted as **diameter - thread pitch**. Pitch can be approximated but *strongly* recommend being as accurate as possible.
