@@ -4,7 +4,6 @@ The purpose of this file is to keep track of key nuts and or bolts that may need
 ## Chart
 
 **To Do** - find Master-McCarr product IDs
-**n.b.** - Sizing is formatted as **diameter - thread pitch**. Pitch can be approximated but *strongly* recommend being as accurate as possible.
 
 | Location | Sizing | Quantity | Source | Notes |
 | --- | --- | --- | --- | --- |
